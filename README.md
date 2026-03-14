@@ -18,7 +18,7 @@
 
 ```
 
-Languages:   Python, C++ , HTML, CSS (basic)
+Languages:   Python, C++ , HTML, CSS (basic), Java
 Tools:       Git, GitHub, VS Code, Jupyter
 Framework:   Flask, FastAPI
 Concepts:    OOP, DSA, File Handling, API Integration
